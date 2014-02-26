@@ -1,0 +1,4 @@
+tiendas
+=======
+
+Aplicación multi-plataforma
